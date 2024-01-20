@@ -4,13 +4,13 @@ In Bus Route Optimisation you can navigate Bhopal's bus network . This C++ progr
 Features:
 •	Optimized Routes: Discover the most efficient path from your starting point to your destination.
 •	Fare Calculation: Get accurate fare details based on the total distance traveled.
-•	User-Friendly Executable: Simply run the provided executable (bhopal-bus-route-optimization.exe) for a hassle-free experience.
+•	User-Friendly Executable: Simply run the provided executable for a hassle-free experience.
 •	Lexicographically Ordered Stops: Stops are organized in lexicographical order for easy search and identification.
 How to Use:
 1.	Download the Executable:
 •	Download the executable from the Releases section.
 2.	Run the Executable:
-•	Double-click on bhopal-bus-route-optimization.exe to launch the program.
+•	Double-click on exe to launch the program.
 3.	Input Bus Stop Codes:
 •	Follow the on-screen instructions to input source and destination bus stop codes.
 4.	Receive Optimization:

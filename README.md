@@ -1,5 +1,6 @@
 # Bus-Route-Optimisation
-Effortlessly navigate Bhopal's bus network with the Bus Route Optimization system. This C++ program, powered by Dijkstra's algorithm, calculates the shortest distance and fare between selected bus stops, ensuring a seamless and cost-effective journey.
+Before anything this is not an anroid application but a c++ program, i made it by seeing the huge distances that we have to take in buses through long routes when we can switch buses and travel faster and cheaper.
+In Bus Route Optimisation you can navigate Bhopal's bus network . This C++ program, powered by Dijkstra's algorithm, calculates the shortest distance and fare between selected bus stops, ensuring a seamless and cost-effective journey.
 Features:
 •	Optimized Routes: Discover the most efficient path from your starting point to your destination.
 •	Fare Calculation: Get accurate fare details based on the total distance traveled.
